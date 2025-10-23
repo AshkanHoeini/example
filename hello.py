@@ -2,4 +2,4 @@
 import myname
 
 name = myname.get_name()
-print("hello master {}".format(name)) 
+print("hello confilect {}".format(name)) 
