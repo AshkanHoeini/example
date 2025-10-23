@@ -2,4 +2,4 @@
 import myname
 
 name = myname.get_name()
-print("hello from master {}".format(name))
+print("hello from conflictC")
