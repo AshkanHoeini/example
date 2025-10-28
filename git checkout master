@@ -1,0 +1,64 @@
+[33mc49cdf9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{0}: reset: moving to HEAD~1
+[33m3befc8c[m HEAD@{1}: commit: yadgiri reset
+[33mc49cdf9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{2}: merge feature: Fast-forward
+[33me80921e[m HEAD@{3}: checkout: moving from feature to master
+[33mc49cdf9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{4}: rebase (finish): returning to refs/heads/feature
+[33mc49cdf9[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mfeature[m[33m)[m HEAD@{5}: rebase (continue): "final done" feature change
+[33me80921e[m HEAD@{6}: rebase (start): checkout master
+[33mec57929[m HEAD@{7}: checkout: moving from master to feature
+[33me80921e[m HEAD@{8}: commit: second master change
+[33mdd9736a[m HEAD@{9}: checkout: moving from feature to master
+[33mec57929[m HEAD@{10}: commit: feature change
+[33mdd9736a[m HEAD@{11}: checkout: moving from master to feature
+[33mdd9736a[m HEAD@{12}: commit: master change
+[33m2fef99e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{13}: checkout: moving from master to master
+[33m2fef99e[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m HEAD@{14}: commit: my change
+[33m79b514b[m HEAD@{15}: checkout: moving from master to master
+[33m79b514b[m HEAD@{16}: checkout: moving from master to master
+[33m79b514b[m HEAD@{17}: commit: adding note.txt file
+[33mae5b5f8[m HEAD@{18}: checkout: moving from demo to master
+[33m522b163[m[33m ([m[1;32mdemo[m[33m)[m HEAD@{19}: commit: changed
+[33m4be8a5d[m[33m ([m[1;32mkeep_work[m[33m)[m HEAD@{20}: checkout: moving from master to demo
+[33mae5b5f8[m HEAD@{21}: reset: moving to HEAD
+[33mae5b5f8[m HEAD@{22}: commit (merge): Resolve merge conflict in hello.py
+[33m2c1e28c[m HEAD@{23}: commit: edit on master
+[33mdb74c9d[m HEAD@{24}: checkout: moving from conflictC to master
+[33mb88828b[m[33m ([m[1;32mconflictC[m[33m)[m HEAD@{25}: commit: edit on conflictC
+[33mdb74c9d[m HEAD@{26}: checkout: moving from master to conflictC
+[33mdb74c9d[m HEAD@{27}: commit: khodam save kardam
+[33ma7f7028[m[33m ([m[1;32mconflictB[m[33m, [m[1;32mconflictA[m[33m)[m HEAD@{28}: checkout: moving from master to master
+[33ma7f7028[m[33m ([m[1;32mconflictB[m[33m, [m[1;32mconflictA[m[33m)[m HEAD@{29}: checkout: moving from master to master
+[33ma7f7028[m[33m ([m[1;32mconflictB[m[33m, [m[1;32mconflictA[m[33m)[m HEAD@{30}: checkout: moving from conflictB to master
+[33ma7f7028[m[33m ([m[1;32mconflictB[m[33m, [m[1;32mconflictA[m[33m)[m HEAD@{31}: checkout: moving from master to conflictB
+[33ma7f7028[m[33m ([m[1;32mconflictB[m[33m, [m[1;32mconflictA[m[33m)[m HEAD@{32}: checkout: moving from master to master
+[33ma7f7028[m[33m ([m[1;32mconflictB[m[33m, [m[1;32mconflictA[m[33m)[m HEAD@{33}: merge conflictA: Fast-forward
+[33m6bd49e1[m HEAD@{34}: checkout: moving from conflictA to master
+[33ma7f7028[m[33m ([m[1;32mconflictB[m[33m, [m[1;32mconflictA[m[33m)[m HEAD@{35}: commit: edit on conflictA
+[33m6bd49e1[m HEAD@{36}: checkout: moving from master to conflictA
+[33m6bd49e1[m HEAD@{37}: commit: edit on master
+[33mf9976f1[m HEAD@{38}: checkout: moving from master to master
+[33mf9976f1[m HEAD@{39}: merge demo2: Merge made by the 'ort' strategy.
+[33m98e438e[m HEAD@{40}: checkout: moving from demo2 to master
+[33m82b53d8[m HEAD@{41}: checkout: moving from master to demo2
+[33m98e438e[m HEAD@{42}: checkout: moving from fix-issue to master
+[33m6c279a6[m[33m ([m[1;32mfix-issue[m[33m)[m HEAD@{43}: commit: change
+[33m4be8a5d[m[33m ([m[1;32mkeep_work[m[33m)[m HEAD@{44}: checkout: moving from keep_work to fix-issue
+[33m4be8a5d[m[33m ([m[1;32mkeep_work[m[33m)[m HEAD@{45}: checkout: moving from 4be8a5d095a72fa784e8c410af8de6742e4c3b11 to keep_work
+[33m4be8a5d[m[33m ([m[1;32mkeep_work[m[33m)[m HEAD@{46}: checkout: moving from master to 4be8a5d
+[33m98e438e[m HEAD@{47}: checkout: moving from demo to master
+[33m4be8a5d[m[33m ([m[1;32mkeep_work[m[33m)[m HEAD@{48}: checkout: moving from master to demo
+[33m98e438e[m HEAD@{49}: checkout: moving from demo2 to master
+[33m82b53d8[m HEAD@{50}: commit: change in demo2
+[33m4be8a5d[m[33m ([m[1;32mkeep_work[m[33m)[m HEAD@{51}: checkout: moving from demo to demo2
+[33m4be8a5d[m[33m ([m[1;32mkeep_work[m[33m)[m HEAD@{52}: checkout: moving from demo to demo
+[33m4be8a5d[m[33m ([m[1;32mkeep_work[m[33m)[m HEAD@{53}: checkout: moving from 4be8a5d095a72fa784e8c410af8de6742e4c3b11 to demo
+[33m4be8a5d[m[33m ([m[1;32mkeep_work[m[33m)[m HEAD@{54}: checkout: moving from master to 4be8a5d
+[33m98e438e[m HEAD@{55}: commit: update on master
+[33m62dc4de[m HEAD@{56}: checkout: moving from 6a1dcde5416cce331445ce70988854cff0707fdf to master
+[33m6a1dcde[m HEAD@{57}: commit: add the ignore file
+[33m4be8a5d[m[33m ([m[1;32mkeep_work[m[33m)[m HEAD@{58}: checkout: moving from 3784cfee755bb6995f88963f0ca83af48604930e to 4be8a5d095a72fa784e8c410af8de6742e4c3b11
+[33m3784cfe[m HEAD@{59}: checkout: moving from master to 3784cfee755bb6995f88963f0ca83af48604930e
+[33m62dc4de[m HEAD@{60}: commit: Add gitignore
+[33mc120575[m HEAD@{61}: commit: Add gitignore
+[33m4be8a5d[m[33m ([m[1;32mkeep_work[m[33m)[m HEAD@{62}: commit: added myname module
+[33m3784cfe[m HEAD@{63}: commit (initial): creating hello.py
